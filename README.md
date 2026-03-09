@@ -31,6 +31,9 @@ Claude Skills are structured markdown files that guide Claude to perform specifi
 - **technical-writer** - Create clear, comprehensive technical documentation
 - **api-documentation** - Generate and maintain API documentation
 
+### Data & API
+- **x-twitter-scraper** - X/Twitter data extraction skill with MCP server, REST API, and 20 extraction tools for profiles, tweets, followers, and more
+
 ## Usage
 
 To use a skill with Claude Code:
